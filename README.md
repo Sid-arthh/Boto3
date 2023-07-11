@@ -1,5 +1,5 @@
 # Boto3
-## Handling Few real world use case of AWS using boto3
+## Handling Few real world use cases of boto3+AWS
 
 # 1.CheckS3LifeCycleEnable
 ### Python Script which checks if Any S3 bucket has LIFE CYCLE POLICY enabled
