@@ -22,7 +22,7 @@
    - If using AWS Lambda, ensure that the Lambda execution role has the necessary permissions to access S3 and retrieve bucket lifecycle configurations.
 
 4. Execute the script:
-   - If running locally, execute the script using Python: `python script_name.py`.
+   - If running locally, execute the script using Python: `checkS3LifeCycleEnable.py`.
    - If using AWS Lambda, create a Lambda function and upload the script code as a ZIP package. Configure the function to trigger based on your requirements.
 
 5. Check the output:
